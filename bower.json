@@ -27,5 +27,6 @@
     "plural",
     "icu"
   ],
+  "ignore": ["tests"],
   "license": "MIT"
 }
