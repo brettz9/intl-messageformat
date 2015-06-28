@@ -1,0 +1,31 @@
+{
+  "name": "intl-messageformat",
+  "main": "index.js",
+  "version": "1.1.0",
+  "homepage": "https://github.com/brettz9/intl-messageformat",
+  "authors": [
+    "Eric Ferraiuolo <eferraiuolo@gmail.com>",
+    "Drew Folta <drew@folta.net>",
+    "Caridy Patino <caridy@gmail.com>",
+    "Anthony Pipkin <a.pipkin@yahoo.com>",
+    "Brett Zamir <brettz9@yahoo.com>"
+  ],
+  "description": "Formats ICU Message strings with number, date, plural, and select placeholders to create localized messages.",
+  "moduleType": [
+    "es6",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "i18n",
+    "intl",
+    "internationalization",
+    "localization",
+    "globalization",
+    "messageformat",
+    "parser",
+    "plural",
+    "icu"
+  ],
+  "license": "MIT"
+}
